@@ -1,0 +1,23 @@
+.center {
+  text-align: center;
+}
+H1 {
+  background-color: yellow;
+  color: blue;
+}
+h1.border1 {
+  border: 25px solid green;
+  margin: 10px;
+}
+p.border1 {
+    border: 2px solid red;
+  }
+p.bold {
+  font: bold;
+}
+.bold {
+  font-weight: bold;
+}
+h2.ducks {
+  color: green;
+}

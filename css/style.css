@@ -5,4 +5,9 @@ h1 {
 }
 .jumbotron {
 	text-align: center;
+  color: blue;
+  background: White;
+}
+.title {
+  color: blue;
 }
