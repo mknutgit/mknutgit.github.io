@@ -27,3 +27,8 @@ p.white {
 .center ul {
   display: inline-block;
 }
+img.display {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

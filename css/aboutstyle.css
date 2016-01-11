@@ -24,3 +24,6 @@ h2.ducks {
 h2.purple {
   color: purple;
 }
+li.border1 {
+    border: 2px solid red;
+  }
